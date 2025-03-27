@@ -28,7 +28,10 @@ REST API web service built using **Spring Boot**, **Spring Data JPA**, and **RES
 ## Core Technologies
 - Java 17
 - Spring Boot 3.4.4
+- SpringDoc OpenAPI 2.7.0
+- Spring data JPA
 - MySQL Database
+- Maven 
 
 ## API Documentation
 ### Proudct managment
